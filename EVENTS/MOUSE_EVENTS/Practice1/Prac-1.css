@@ -1,0 +1,8 @@
+.text_content{
+    color:red;
+    font-size: medium;
+}
+#clicked{
+    width:500px;
+    height:100px
+}
